@@ -1,0 +1,42 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.5.7",
+    "framer-motion": "^5.6.0",
+    "front-matter": "^4.0.2",
+    "frontmatter": "^0.0.3",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.2.0",
+    "grey-matter": "^0.0.0",
+    "gsap": "^3.9.1",
+    "mdx": "^0.3.1",
+    "next": "latest",
+    "next-compose-plugins": "^2.2.1",
+    "next-mdx-enhanced": "^5.0.0",
+    "next-pwa": "^5.4.4",
+    "path": "^0.12.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-intersection-observer": "^8.33.1",
+    "react-rough-notation": "^1.0.1",
+    "sass": "^1.48.0",
+    "styled-components": "^5.3.3",
+    "twin.macro": "^2.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.4",
+    "@types/react": "17.0.38",
+    "autoprefixer": "^10.4.0",
+    "babel-plugin-macros": "^3.1.0",
+    "babel-plugin-styled-components": "^2.0.2",
+    "babel-plugin-twin": "^1.0.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7",
+    "typescript": "4.5.4"
+  }
+}
